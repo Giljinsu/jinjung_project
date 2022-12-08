@@ -1,0 +1,83 @@
+* {
+    /* border: 1px dotted gray; */
+    font-size: 7px;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+.flex > div {
+    text-align: center;
+    border: 1px solid black;
+    padding: 20px 30% 0px 30%;
+    font-size: 5rem;
+}
+
+.table {
+    display: flex;
+    justify-content: center;
+}
+
+.center {
+    justify-content: center;
+}
+
+th {
+    font-size: 3rem;
+    background-color: rgb(255, 229, 153);
+}
+
+.image {
+    border: 1px solid black;
+    width : 10rem;
+    height : 10rem;
+}
+
+select {
+    font-size: 3rem;
+}
+
+.td_flex {
+    display: flex;
+
+}
+
+.td_flex > div {
+    font-size: 3rem;
+}
+
+select > option {
+    font-size: 3rem;
+}
+
+input {
+    font-size: 3rem;
+    width: 50rem;
+}
+
+.input_size {
+    width: 70rem;
+}
+
+.button {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.button > button , a {
+    font-size: 3rem;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.main_div {
+    border: 1px solid black;
+    width: 150rem;
+    height: 100rem;
+}
