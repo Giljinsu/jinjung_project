@@ -1,8 +1,22 @@
 ## JinJung Project
+### 구성원
+- Member1 : 길진수
+- Member2 : 이정훈
 
-- htmls
-- CSSs
-- bootstrap
+### 코드
+#### 길진수
+- 메인화면 : [Link](./docs/index.html)
+- 회원가입 : [Link](./docs/Html/logpage.html)
+
+#### 이정훈
+- 로그인 : [Link](./docs/Html/logpage.html)
+- 설문 : [Link](./docs/Html/surveyPage.html)
+- 통계 : [Link](./docs/Html/result.html)
+- 회원별 통계 : [Link](./docs/Html/client_result.html)
+- 통계 삭제 : [Link](./docs/Html/removePage.html)
+
+
+#
 
 ### 유용한 코드
 
